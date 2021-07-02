@@ -89,3 +89,12 @@ main {
 .language-location a {
     text-decoration: none;
 }
+.location-container {
+    height: 49px;
+    width: 100%;
+}
+.location {
+    color: #929292;
+    font-size: 15px;
+    margin-left: 60px;
+}
