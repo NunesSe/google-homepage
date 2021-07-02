@@ -74,5 +74,18 @@ main {
     border-width: 1px;
     border-style: solid;
     font-size: 14px;
-    margin-right: 50px;
+    margin-right: 25px;
+    margin-top: 15px
+}
+.language-container {
+    height: 245px;
+    width: 100%;
+    text-align: center;
+}
+.language-location {
+    font-size: 13px;
+    margin-top: 15px;
+}
+.language-location a {
+    text-decoration: none;
 }
